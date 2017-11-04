@@ -32,11 +32,11 @@ http://gameprogrammingpatterns.com/contents.html
 
 ## Videos
 ### TED Talks
-[Jane McGonigal: Gaming Can Make a Better World](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world)
-[Jane McGonigal: The Game That Can Give You 10 Extra Years of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
-[Daphne Bavelier: You Brain on Video Games](https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games)
-[John Hunter: On the World Peace Game](https://www.ted.com/talks/john_hunter_on_the_world_peace_game)
-[Jame McGonigal: Massively Multi Player Thumb Wrestling](https://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling)
+- [Jane McGonigal: Gaming Can Make a Better World](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world)
+- [Jane McGonigal: The Game That Can Give You 10 Extra Years of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
+- [Daphne Bavelier: You Brain on Video Games](https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games)
+- [John Hunter: On the World Peace Game](https://www.ted.com/talks/john_hunter_on_the_world_peace_game)
+- [Jane McGonigal: Massively Multi-player Thumb Wrestling](https://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling)
 
 
 ### Extra Credits
