@@ -25,7 +25,7 @@ There are two primary reference materials for this course.  One is a series of a
 - [Video Game Development: Multi-threading](http://techniumadeptus.blogspot.com/2016/08/video-game-development-multi-threading.html)
 
 
-[Game Design: The Challenges of Real-time Strategy](http://techniumadeptus.blogspot.com/2016/03/game-design-challeneges-of-real-time.html)
+- [Game Design: The Challenges of Real-time Strategy](http://techniumadeptus.blogspot.com/2016/03/game-design-challeneges-of-real-time.html)
 
 
 ## Free Online Textbook
