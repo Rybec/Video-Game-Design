@@ -57,7 +57,7 @@ http://gameprogrammingpatterns.com/contents.html
 - [So You Want to Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc)
 - [Why Games Do Cthulu Wrong](://www.youtube.com/watch?v=7DyRxlvM9VM)
 
-* Occasional Swearing
+\* Occasional Swearing
 
 ## Other Useful References
 
