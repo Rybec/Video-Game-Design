@@ -55,7 +55,7 @@ http://gameprogrammingpatterns.com/contents.html
 - []()
 - [The Skinner Box](https://www.youtube.com/watch?v=tWtvrPTbQ_c)
 - [So You Want to Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc)
-- [Why Games Do Cthulu Wrong](://www.youtube.com/watch?v=7DyRxlvM9VM)
+- [Why Games Do Cthulu Wrong](https://www.youtube.com/watch?v=7DyRxlvM9VM)
 
 \* Occasional Swearing
 
