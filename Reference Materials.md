@@ -40,7 +40,24 @@ http://gameprogrammingpatterns.com/contents.html
 
 
 ### Extra Credits
+- [Depth vs Complexity](https://www.youtube.com/watch?v=jVL4st0blGU) - Complexity
+- [Bad Writing](https://www.youtube.com/watch?v=KG1ziCvLkJ0) - Narrative
+- [Video Game Music](https://www.youtube.com/watch?v=CKgHrz_Wv6o)
+- [Facing Controversy*](https://www.youtube.com/watch?v=LSm-UzWzO2E)
+- [Choice and Conflict](https://www.youtube.com/watch?v=lg8fVtKyYxY)
+- [Non-Combat Gaming](https://www.youtube.com/watch?v=2QJVGtKPjNc)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [The Skinner Box](https://www.youtube.com/watch?v=tWtvrPTbQ_c)
+- [So You Want to Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc)
+- [Why Games Do Cthulu Wrong](://www.youtube.com/watch?v=7DyRxlvM9VM)
 
+* Occasional Swearing
 
 ## Other Useful References
 
