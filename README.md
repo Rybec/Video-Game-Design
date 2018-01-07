@@ -1,6 +1,8 @@
 # Video-Game-Design
 Video Game Design Course Schedule
 
+ - - - -
+
 ## Week 1 (Jan 8)
 ### Objectives
 - Answer Value of Games Questions
@@ -17,6 +19,7 @@ Video Game Design Course Schedule
 - Answer Value of Games Questions
 - Python Tic Tac Toe in-class assignment
 
+- - - -
 
 ## Week 2 (Jan 15)
 ### Objectives
@@ -30,6 +33,7 @@ Video Game Design Course Schedule
 ### Due
 - Work on tabletop project started
 
+- - - -
 
 ## Week 3 (Jan 22)
 ### Objectives
@@ -45,6 +49,8 @@ Video Game Design Course Schedule
 ### Due
 - < 5 minute progress report on tabletop project
 
+- - - -
+
 ## Week 4 (Jan 29)
 ### Objectives
 - Better understand video games as an artistic and educational medium
@@ -58,6 +64,7 @@ Video Game Design Course Schedule
 ### Due
 - Tabletop projects
 
+- - - -
 
 ## Week 5 (Feb 5)
 ### Objectives
@@ -71,6 +78,7 @@ Video Game Design Course Schedule
 ### Due
 - Essay on the elements of Basic Game Design
 
+- - - -
 
 ## Week 6 (Feb 12)
 ### Objectives
@@ -86,13 +94,14 @@ Video Game Design Course Schedule
 ### Due
 - Essay on the elements of Video Game Design
 
+- - - -
+
 ## Week 7 (Feb 19)
 ### NOTE!
 - Thursday (Feb 22) class is in STC152
 
 ### Objectives
 - Understand how to use available resources to learn how to do hard things
-
 
 ### Reading
 - [Video Game Development: Random Number Generation](http://techniumadeptus.blogspot.com/2016/06/video-game-development-random-number.html)
@@ -104,6 +113,7 @@ Video Game Design Course Schedule
   - Pixel Perfect Collision Detection Demo
   - Procedural Dungeon Generation Demo
 
+- - - -
 
 ## Week 8 (Feb 26)
 ### Objectives
@@ -118,6 +128,7 @@ Video Game Design Course Schedule
 ### Due
 - Essay on Education in Games
 
+- - - -
 
 ## Week 9 (Mar 5)
 ### Objectives
@@ -131,6 +142,7 @@ Video Game Design Course Schedule
 ### Due
 - Simple animation
 
+- - - -
 
 ## Week 10 (Mar 12)
 ### Objectives
@@ -143,6 +155,7 @@ Video Game Design Course Schedule
 ### Due
 - < 5 minute progress report presentation for final project
 
+- - - -
 
 ## Week 11 (Mar 19)
 ### Objectives
@@ -154,6 +167,7 @@ Video Game Design Course Schedule
 ### Due
 - < 5 minute progress report presentation for final project
 
+- - - -
 
 ## Week 12 (Mar 26)
 ### Objectives
@@ -166,6 +180,7 @@ Video Game Design Course Schedule
 - Simple audio playback
 - < 5 minute progress report presentation for final project
 
+- - - -
 
 ## Week 13 (Apr 2)
 ### Objectives
@@ -176,6 +191,8 @@ Video Game Design Course Schedule
 
 ### Due
 - Final project demo
+
+- - - -
 
 ## Week 14 (Apr 9)
 
