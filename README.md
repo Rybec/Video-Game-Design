@@ -12,7 +12,7 @@ Video Game Design Course Schedule
 
 ### Reading
 - [Video Game Design: Introduction](http://techniumadeptus.blogspot.com/2016/03/video-game-design-intro.html)
-- [Art & Fear: The Ceramics Class and Quanitity Before Quality](https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/)
+- [Art & Fear: The Ceramics Class and Quantity Before Quality](https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/)
 - [Forget About the 10,000 Hour Rule](https://medium.com/the-mission/forget-about-the-10-000-hour-rule-7b7a39343523)
 
 ### Due
