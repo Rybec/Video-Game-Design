@@ -69,7 +69,7 @@ Video Game Design Course Schedule
 - [Video Game Design: User Interface](http://techniumadeptus.blogspot.com/2016/05/video-game-design-user-interface.html)
 
 ### Due
-- Two to three paragraph essay on the elements of Basic Game Design
+- Essay on the elements of Basic Game Design
 
 
 ##Week 6 (Feb 12)
@@ -84,7 +84,7 @@ Video Game Design Course Schedule
 - [Update Method Design Pattern](http://gameprogrammingpatterns.com/update-method.html)
 
 ### Due
-- Three to four paragraph essay on the elements of Video Game Design
+- Essay on the elements of Video Game Design
 
 ##Week 7 (Feb 19)
 ### NOTE!
@@ -101,8 +101,8 @@ Video Game Design Course Schedule
 
 ### Due
 - One of the following
-  - Pixel perfect collision detection demo
-  - Procedural dungeon generation demo
+  - Pixel Perfect Collision Detection Demo
+  - Procedural Dungeon Generation Demo
 
 
 ##Week 8 (Feb 26)
@@ -116,7 +116,7 @@ Video Game Design Course Schedule
 - [Video Game Design: Educational Game Psychology in a Nutshell](http://techniumadeptus.blogspot.com/2016/06/video-game-design-educational-game.html)
 
 ### Due
-- Two to three paragraph discussion on Education in Games
+- Essay on Education in Games
 
 
 ##Week 9 (Mar 5)
@@ -163,6 +163,7 @@ Video Game Design Course Schedule
 - Anything that is relevant to your project
 
 ### Due
+- Simple audio playback
 - < 5 minute progress report presentation for final project
 
 
