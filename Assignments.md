@@ -27,6 +27,9 @@ This project will be graded in class.  Students will present and demonstrate the
 
 
 ## Assignments
+### Answer Value of Games Questions
+The first subcategory in the knowledge proficiencies category asks two questions.  You may write your answers to these questions down and turn them in to get credit for this assignment.
+
 
 ### Tic Tac Toe (in-class)
 Write a simple tic tac toe game in Python.  It should allow two human players to play a game against each other.  After each move, it should display the current state of the board.  It should not allow a player to mark a box that it already occupied.  If you have time, make it check if a player has won after each move.
