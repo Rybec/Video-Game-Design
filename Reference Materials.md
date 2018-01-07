@@ -14,7 +14,7 @@ There are two primary reference materials for this course.  One is a series of a
 - [Video Game Design: Game Psychology](http://techniumadeptus.blogspot.com/2016/05/video-game-design-game-psychology.html)
 - [Video Game Design: User Interface](http://techniumadeptus.blogspot.com/2016/05/video-game-design-user-interface.html)
 - [Video Game Development: Movement Along a Path](http://techniumadeptus.blogspot.com/2016/05/video-game-development-movement-along.html)
- -[Video Game Design: Design Patterns](http://techniumadeptus.blogspot.com/2016/05/video-game-design-design-patterns.html)
+- [Video Game Design: Design Patterns](http://techniumadeptus.blogspot.com/2016/05/video-game-design-design-patterns.html)
 - [Video Game Design: Education in Games](http://techniumadeptus.blogspot.com/2016/05/video-game-design-education-in-games.html)
 - [Video Game Development: Random Number Generation](http://techniumadeptus.blogspot.com/2016/06/video-game-development-random-number.html)
 - [Video Game Development: Efficiency Part 1](http://techniumadeptus.blogspot.com/2016/06/video-game-development-efficiency-part-1.html)
@@ -40,19 +40,16 @@ http://gameprogrammingpatterns.com/contents.html
 
 
 ### Extra Credits
+#### In Class
 - [Depth vs Complexity](https://www.youtube.com/watch?v=jVL4st0blGU) - Complexity
 - [Bad Writing](https://www.youtube.com/watch?v=KG1ziCvLkJ0) - Narrative
 - [Video Game Music](https://www.youtube.com/watch?v=CKgHrz_Wv6o)
 - [Facing Controversy*](https://www.youtube.com/watch?v=LSm-UzWzO2E)
 - [Choice and Conflict](https://www.youtube.com/watch?v=lg8fVtKyYxY)
-- [Non-Combat Gaming](https://www.youtube.com/watch?v=2QJVGtKPjNc)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Non-Combat Gaming*](https://www.youtube.com/watch?v=2QJVGtKPjNc)
+- [The Problem with Power Fantasies](https://www.youtube.com/watch?v=gErFdHiTBRw)
+
+#### Supplemental
 - [The Skinner Box](https://www.youtube.com/watch?v=tWtvrPTbQ_c)
 - [So You Want to Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc)
 - [Why Games Do Cthulu Wrong](https://www.youtube.com/watch?v=7DyRxlvM9VM)
