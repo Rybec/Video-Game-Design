@@ -1,0 +1,155 @@
+Week 1
+    Tuesday: (each video is 20 minutes)
+        https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world
+        https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life
+	Discuss (10 minutes)
+
+	https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games
+	Discuss (10 minutes)
+
+    Thursday: (video is 20 minutes)
+	https://www.ted.com/talks/john_hunter_on_the_world_peace_game
+	Discuss (10 minutes)
+
+	Quick Python tutorial
+	Python Tic Tac Toe in-class assignment
+
+
+Week 2
+    Tuesday: (video is 7 minutes)
+        https://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling
+	
+	Discussion Basic Game Design
+            Who is the most important person?
+            Core Mechanics
+            Open Discussion on Basic Game Design topics
+        Group Activity
+            Create a list of core mechanics
+
+    Thursday: (videoes are 7 minutes, 10 minutes)
+	Extra Credits: Depth vs Complexity
+        https://www.youtube.com/watch?v=jVL4st0blGU
+        Discuss (10 minutes)
+
+        Live coding demo (Python)
+            Getting an image on the screen
+
+
+	Jan 15: No Classes
+
+Week 3
+	Tuesday: (video is 7 minutes)
+		Presentation with Marjorie Price
+		Extra Credits: Bad Writing		
+		https://www.youtube.com/watch?v=KG1ziCvLkJ0
+		Dicuss (10 minutes)
+		Extra Credits: Video Game Music
+		https://www.youtube.com/watch?v=CKgHrz_Wv6o
+		Discuss (10 minutes)
+		Work time
+
+	Thursday:
+		Presentation with David Pruitt
+		Progress reports
+		Work time
+
+
+Week 4
+	Tuesday: (video is 10 minutes)
+		Extra Credits: Facing Controversy (some swearing)
+		https://www.youtube.com/watch?v=LSm-UzWzO2E
+		Discuss (15 minutes)
+		Work time
+
+	Thursday:
+		Due: Tabletop Games
+		Game demos!
+Week 5
+	Tuesday: (video is 7 minutes)
+		Extra Credits: Choice and Conflict
+		https://www.youtube.com/watch?v=lg8fVtKyYxY
+		Discussion (10 minutes)
+		Work time/Game demos overflow
+
+	Thursday: (video is 7 minutes)
+		Extra Credits: Non-Combat Gaming
+		https://www.youtube.com/watch?v=2QJVGtKPjNc
+		Discussion (10 minutes)
+		Work time/Game demo overflow
+
+Week 6
+	Tuesday:
+		Collision detection
+		Procedural dungeon generation
+		Open Discussion (30 minutes)
+
+	Thursday:
+		Live coding demo (Python)
+			Rendering subsystem
+			Event queue subsystem
+
+Week 7
+Feb 19: No Classes
+	Tuesday: (video is 7 minutes)
+		Extra Credits: The Problem with Power Fantasies
+		https://www.youtube.com/watch?v=gErFdHiTBRw
+		Discussion (10 minutes)
+		Open Discussion
+
+	Tursday: (Class is in STC152)
+		Data driven programming
+		Live coding demo
+			Comparing object style models to parallel arrays
+		Present simulation and game C code
+
+Small programming project due
+
+Week 8
+	Tuesday:
+		Live coding demo
+			Animation
+		Open discussion/work time
+
+	Thursday:
+		Live coding demo
+			Player input
+		Open discussion/work time
+
+Week 9
+	Tuesday:
+		Live coding demo
+			Multi-threading
+		Open discussion/work time
+
+	Thursday:
+		Work time
+
+
+Week 10
+	Tuesday:
+		Design patterns discussion
+
+	Thursday:
+		Progress reports
+
+Week 11
+	Tuesday:
+		Work time
+
+	Thursday:
+		Work time
+
+Week 12
+	Tuesday:
+Audio
+	Thursday:
+
+Week 13
+	Tuesday:
+		Work time
+	Thursday:
+		Project Presenations
+
+Week 14
+	Tuesday:
+		Project Presentations
