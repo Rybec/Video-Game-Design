@@ -40,6 +40,8 @@ Essay assignments are your opportunity to demonstrate your knowledge of some of 
 
 Essays will be graded on whether or not they demonstrate an understanding of the topic.  Formatting and correctness of your English will not be considered unless they make your writing difficult to read or understand.
 
+For each essay assignment, you can find the subtopics in the [Proficiencies](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md) file.
+
 
 ### Pixel Perfect Collision Detection
 This assignment is designed to assess your ability to learn on your own and you ability to implement complex algorithms of the kind commonly used in games.
