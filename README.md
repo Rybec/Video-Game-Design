@@ -76,7 +76,7 @@ Video Game Design Course Schedule
 - [Video Game Design: User Interface](http://techniumadeptus.blogspot.com/2016/05/video-game-design-user-interface.html)
 
 ### Due
-- Essay on the elements of Basic Game Design
+- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on the elements of [Basic Game Design](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#basic-game-design)
 
 - - - -
 
@@ -92,7 +92,7 @@ Video Game Design Course Schedule
 - [Update Method Design Pattern](http://gameprogrammingpatterns.com/update-method.html)
 
 ### Due
-- Essay on the elements of Video Game Design
+- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on the elements of [Video Game Design](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#video-game-design)
 
 - - - -
 
@@ -126,7 +126,7 @@ Video Game Design Course Schedule
 - [Video Game Design: Educational Game Psychology in a Nutshell](http://techniumadeptus.blogspot.com/2016/06/video-game-design-educational-game.html)
 
 ### Due
-- Essay on Education in Games
+- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on [Education in Games](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#education-in-games)
 
 - - - -
 
