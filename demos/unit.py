@@ -1,4 +1,7 @@
+import pygame
+
 import graphics
+
 
 class unit(object):
 	def __init__(self, x, y):
@@ -26,5 +29,24 @@ class George(unit):
 		surface.blit(self.spritesheet,
 		             (self.x, self.y, 48,48),
 		             self.mapping[self.facing][int(self.frame)])
-					
+					 
+	def handler(self, event):
+		if event.type == pygame.KEYDOWN:
+			if event.key == pygame.K_UP:
+				self.y -= 1
+				if self.y < 0:
+					self.y = 0
+			elif event.key == pygame.K_DOWN:
+				self.y += 1
+				if self.y > (599 - 48):
+					self.y = 599 - 48
+			elif event.key == pygame.K_LEFT:
+				self.x -= 1
+				if self.x < 0:
+					self.x = 0
+			elif event.key == pygame.K_RIGHT:
+				self.x += 1
+				if self.x > (799 - 48):
+					self.x = 799 - 48
+				
 					
