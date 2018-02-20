@@ -1,7 +1,7 @@
 import pygame
 
-height = 800
-width = 600
+width = 800
+height = 600
 
 assets = {}
 
@@ -12,12 +12,12 @@ background = None
 screen = None
 
 def update():
-	global screen, background, renderables
+	global screen, background, renderables, width, height
 	
 	screen.fill((0,0,0))
 	
 	if background:
-		screen.blit(background, (0, 0, height, width))	
+		screen.blit(background, (0, 0, width, height))	
 	
 	for r in renderables:
 		r.render(screen)
@@ -38,7 +38,7 @@ def remove(renderable):
 def init():
 	global screen
 	pygame.display.init()
-	screen = pygame.display.set_mode((height, width))
+	screen = pygame.display.set_mode((width, height))
 
 	
 def load(file):
