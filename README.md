@@ -165,6 +165,7 @@ Video Game Design Course Schedule
 - Anything that is relevant to your project
 
 ### Due
+- Simple audio playback
 - < 5 minute progress report presentation for final project
 
 - - - -
@@ -177,7 +178,6 @@ Video Game Design Course Schedule
 - Anything that is relevant to your project
 
 ### Due
-- Simple audio playback
 - < 5 minute progress report presentation for final project
 
 - - - -
