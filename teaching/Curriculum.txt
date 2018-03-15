@@ -127,26 +127,29 @@ Week 9
 
 Week 10
 	Tuesday:
-		Design patterns discussion
+		Animation Demo Presentation
 
 	Thursday:
 		Progress reports
 
 Week 11
 	Tuesday:
-		Work time
+		Audio Demo Presentation
+		Live coding demo
+			Audio
 
 	Thursday:
-		Work time
+		Design patterns discussion
 
 Week 12
 	Tuesday:
-Audio
+		Audio Demo Presentation
 	Thursday:
+		Work time
 
 Week 13
 	Tuesday:
-		Work time
+		Work time/Project Presentations
 	Thursday:
 		Project Presenations
 
