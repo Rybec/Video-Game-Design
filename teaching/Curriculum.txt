@@ -134,7 +134,6 @@ Week 10
 
 Week 11
 	Tuesday:
-		Audio Demo Presentation
 		Live coding demo
 			Audio
 
