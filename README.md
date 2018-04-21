@@ -3,7 +3,7 @@ Video Game Design Course Schedule
 
  - - - -
 
-## Week 1 (Jan 8)
+## Week 1 (Apr 23)
 ### Objectives
 - Answer Value of Games Questions
   - What can games teach us?
@@ -15,13 +15,13 @@ Video Game Design Course Schedule
 - [Art & Fear: The Ceramics Class and Quantity Before Quality](https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/)
 - [Forget About the 10,000 Hour Rule](https://medium.com/the-mission/forget-about-the-10-000-hour-rule-7b7a39343523)
 
-### Due
-- Answer Value of Games Questions
+### Assignment
+- Answer Value of Games Questions (Due in next Tuesday)
 - Python Tic Tac Toe in-class assignment
 
 - - - -
 
-## Week 2 (Jan 15)
+## Week 2 (Apr 30)
 ### Objectives
 - Understand basic game design
 - Begin work on tabletop project
@@ -30,12 +30,12 @@ Video Game Design Course Schedule
 - [Video Game Design: Basic Game Design](http://techniumadeptus.blogspot.com/2016/04/video-game-design-basic-game-design.html)
 - [Video Game Design: Complexity](http://techniumadeptus.blogspot.com/2016/05/video-game-design-complexity.html)
 
-### Due
+### Assignment
 - Work on tabletop project started
 
 - - - -
 
-## Week 3 (Jan 22)
+## Week 3 (May 7)
 ### Objectives
 - Make significant progress on tabletop project
 - Understand game economies
@@ -46,12 +46,12 @@ Video Game Design Course Schedule
 - [Video Game Design: Play Scheduling](http://techniumadeptus.blogspot.com/2016/04/video-game-design-play-scheduling.html)
 - [Video Game Design: Multiplayer](http://techniumadeptus.blogspot.com/2016/04/video-game-design-multiplayer.html)
 
-### Due
-- < 5 minute progress report on tabletop project
+### Assignment
+- < 5 minute progress report on tabletop project (Present in class this week)
 
 - - - -
 
-## Week 4 (Jan 29)
+## Week 4 (May 14)
 ### Objectives
 - Better understand video games as an artistic and educational medium
 - Complete tabletop projects
@@ -62,11 +62,11 @@ Video Game Design Course Schedule
 - [Video Game Design: Resources](http://techniumadeptus.blogspot.com/2016/05/video-game-design-resources.html)
 
 ### Due
-- Tabletop projects
+- Tabletop projects (Demo playthrough next Tuesday/Thursday)
 
 - - - -
 
-## Week 5 (Feb 5)
+## Week 5 (May 21)
 ### Objectives
 - Understand video game design
 
@@ -75,12 +75,12 @@ Video Game Design Course Schedule
 - [Video Game Design: Game Psychology](http://techniumadeptus.blogspot.com/2016/05/video-game-design-game-psychology.html)
 - [Video Game Design: User Interface](http://techniumadeptus.blogspot.com/2016/05/video-game-design-user-interface.html)
 
-### Due
-- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on the elements of [Basic Game Design](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#basic-game-design)
+### Assignment
+- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on the elements of [Basic Game Design](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#basic-game-design) (Due next Tuesday)
 
 - - - -
 
-## Week 6 (Feb 12)
+## Week 6 (May 28)
 ### Objectives
 - Know where to start, with video game development
 - Gain a basic understanding of why educational games have failed as a genre
@@ -91,15 +91,12 @@ Video Game Design Course Schedule
 - [Game Loop Design Pattern](http://gameprogrammingpatterns.com/game-loop.html)
 - [Update Method Design Pattern](http://gameprogrammingpatterns.com/update-method.html)
 
-### Due
-- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on the elements of [Video Game Design](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#video-game-design)
+### Assignment
+- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on the elements of [Video Game Design](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#video-game-design) (Due next Tuesday)
 
 - - - -
 
-## Week 7 (Feb 19)
-### NOTE!
-- Thursday (Feb 22) class is in STC152
-
+## Week 7 (Jun 4)
 ### Objectives
 - Understand how to use available resources to learn how to do hard things
 
@@ -108,14 +105,14 @@ Video Game Design Course Schedule
 - [Video Game Development: Efficiency Part 1](http://techniumadeptus.blogspot.com/2016/06/video-game-development-efficiency-part-1.html)
 - [Video Game Development: Efficiency Part 2](http://techniumadeptus.blogspot.com/2016/06/video-game-development-efficiency-part-2.html)
 
-### Due
-- One of the following
+### Assignment
+- One of the following (Due Tuesday after next)
   - Pixel Perfect Collision Detection Demo
   - Procedural Dungeon Generation Demo
 
 - - - -
 
-## Week 8 (Feb 26)
+## Week 8 (Jun 11)
 ### Objectives
 - Make progress on final project
 - Understand how scheduling applies to video games
@@ -125,12 +122,12 @@ Video Game Design Course Schedule
 - [Video Game Development: Scheduling](http://techniumadeptus.blogspot.com/2016/06/video-game-development-scheduling.html)
 - [Video Game Design: Educational Game Psychology in a Nutshell](http://techniumadeptus.blogspot.com/2016/06/video-game-design-educational-game.html)
 
-### Due
-- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on [Education in Games](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#education-in-games)
+### Assignment
+- [Essay](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#essay) on [Education in Games](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md#education-in-games) (Due next Tuesday)
 
 - - - -
 
-## Week 9 (Mar 5)
+## Week 9 (Jun 18)
 ### Objectives
 - Demonstrate the ability to find and animate art assets designed for animation
 - Understand how to handle user input
@@ -139,62 +136,48 @@ Video Game Design Course Schedule
 - [Video Game Design: Player Generated Content](http://techniumadeptus.blogspot.com/2016/08/video-game-design-player-generated.html)
 - [Video Game Development: Multi-threading](http://techniumadeptus.blogspot.com/2016/08/video-game-development-multi-threading.html)
 
-### Due
-- Simple animation
+### Assignment
+- Simple animation (Due next Tuesday)
 
 - - - -
 
-## Week 10 (Mar 12)
+## Week 10 (Jun 25)
 ### Objectives
 - Make progress on final project
 - Learn about a useful design pattern in game development
 
 ### Reading
-- One design pattern in chapter 3 or later of the text that you are not already familiar with
+- One design pattern that you are not already familiar with in chapter 3 or later of the text
 
-### Due
-- < 5 minute progress report presentation for final project
+### Assignment
+- < 5 minute progress report presentation for final project (Present in class this week)
 
 - - - -
 
-## Week 11 (Mar 19)
+## Week 11 (Jul 2)
 ### Objectives
 - Make progress on final project
 
 ### Reading
 - Anything that is relevant to your project
 
-### Due
-- Simple audio playback
-- < 5 minute progress report presentation for final project
+### Assignment
+- Simple audio playback (Due next Tuesday)
 
 - - - -
 
-## Week 12 (Mar 26)
+## Week 12 (Jul 9)
 ### Objectives
-- Make progress on final project
+- Complete final project
 
 ### Reading
 - Anything that is relevant to your project
 
-### Due
-- < 5 minute progress report presentation for final project
+### Assignment
+- Early project demo presentations in class (optional)
 
 - - - -
 
-## Week 13 (Apr 2)
-### Objectives
-- Make progress on final project
-
-### Reading
-- Anything that is relevant to your project
-
+## Week 13 (Jul 16)
 ### Due
-- Final project demo
-
-- - - -
-
-## Week 14 (Apr 9)
-
-### Due
-- Final project demo
+- Final project demo presentation in class
