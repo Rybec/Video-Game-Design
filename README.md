@@ -62,7 +62,7 @@ Video Game Design Course Schedule
 - [Video Game Design: Resources](http://techniumadeptus.blogspot.com/2016/05/video-game-design-resources.html)
 
 ### Due
-- Tabletop projects (Demo playthrough next Tuesday/Thursday)
+- Tabletop projects (Demo playthrough this Thursday, next Tuesday)
 
 - - - -
 
