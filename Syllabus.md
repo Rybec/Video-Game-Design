@@ -1,6 +1,6 @@
 # Syllabus
 Video Game Design - Ben Williams
-_Winter 2018_
+_Spring 2018_
 
 ## Catalog Description
 **What this course is about:** Video game design with an emphasis on educational games
