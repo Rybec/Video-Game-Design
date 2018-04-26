@@ -12,8 +12,8 @@ Week 1
 		https://www.ted.com/talks/john_hunter_on_the_world_peace_game
 		Discuss (10 minutes)
 
-	Quick Python tutorial
-	Python Tic Tac Toe in-class assignment
+		Quick Python tutorial
+		Python Tic Tac Toe in-class assignment
 
 
 Week 2
