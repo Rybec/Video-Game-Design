@@ -16,8 +16,8 @@ Video Game Design Course Schedule
 - [Forget About the 10,000 Hour Rule](https://medium.com/the-mission/forget-about-the-10-000-hour-rule-7b7a39343523)
 
 ### Assignment
-- Answer Value of Games Questions (Due in next Tuesday)
-- Python Tic Tac Toe in-class assignment
+- [Answer Value of Games Questions](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#answer-value-of-games-questions) (Due in next Tuesday)
+- Python [Tic Tac Toe](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#tic-tac-toe-in-class) in-class assignment
 
 - - - -
 
@@ -31,7 +31,7 @@ Video Game Design Course Schedule
 - [Video Game Design: Complexity](http://techniumadeptus.blogspot.com/2016/05/video-game-design-complexity.html)
 
 ### Assignment
-- Work on tabletop project started
+- Work on [tabletop project](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#tabletop-game) started
 
 - - - -
 
@@ -47,7 +47,7 @@ Video Game Design Course Schedule
 - [Video Game Design: Multiplayer](http://techniumadeptus.blogspot.com/2016/04/video-game-design-multiplayer.html)
 
 ### Assignment
-- < 5 minute progress report on tabletop project (Present in class this week)
+- < 5 minute [progress report](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#progress-reports) on tabletop project (Present in class this week)
 
 - - - -
 
@@ -107,8 +107,8 @@ Video Game Design Course Schedule
 
 ### Assignment
 - One of the following (Due Tuesday after next)
-  - Pixel Perfect Collision Detection Demo
-  - Procedural Dungeon Generation Demo
+  - [Pixel Perfect Collision Detection](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#pixel-perfect-collision-detection) Demo
+  - [Procedural Dungeon Generation](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#procedural-dungeon-generation-demo) Demo
 
 - - - -
 
@@ -137,7 +137,7 @@ Video Game Design Course Schedule
 - [Video Game Development: Multi-threading](http://techniumadeptus.blogspot.com/2016/08/video-game-development-multi-threading.html)
 
 ### Assignment
-- Simple animation (Due next Tuesday)
+- [Simple animation](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#simple-animation) (Due next Tuesday)
 
 - - - -
 
@@ -150,7 +150,7 @@ Video Game Design Course Schedule
 - One design pattern that you are not already familiar with in chapter 3 or later of the text
 
 ### Assignment
-- < 5 minute progress report presentation for final project (Present in class this week)
+- < 5 minute [progress report](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#progress-reports) presentation for final project (Present in class this week)
 
 - - - -
 
@@ -162,7 +162,7 @@ Video Game Design Course Schedule
 - Anything that is relevant to your project
 
 ### Assignment
-- Simple audio playback (Due next Tuesday)
+- [Simple audio playback](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#simple-audio-playback) (Due next Tuesday)
 
 - - - -
 
@@ -180,4 +180,4 @@ Video Game Design Course Schedule
 
 ## Week 13 (Jul 16)
 ### Due
-- Final project demo presentation in class
+- [Final project](https://github.com/Rybec/Video-Game-Design/blob/master/Course%20Work.md#video-game) demo presentation in class
