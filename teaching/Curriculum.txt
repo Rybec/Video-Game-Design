@@ -64,15 +64,15 @@ Week 4
 		Game demos!
 Week 5
 	Introduce Basic Game Design Assignment
-	Tuesday: (video is 7 minutes)
-		Extra Credits: Choice and Conflict
-		https://www.youtube.com/watch?v=lg8fVtKyYxY
-		Discussion (10 minutes)
+	Tuesday:
 		Work time/Game demos overflow
 
-	Thursday: (video is 7 minutes)
+	Thursday: (videos are 7 minutes)
 		Extra Credits: Non-Combat Gaming
 		https://www.youtube.com/watch?v=2QJVGtKPjNc
+		Discussion (10 minutes)
+		Extra Credits: Choice and Conflict
+		https://www.youtube.com/watch?v=lg8fVtKyYxY
 		Discussion (10 minutes)
 		Work time/Game demo overflow
 
