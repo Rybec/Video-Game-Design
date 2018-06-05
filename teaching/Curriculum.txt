@@ -91,6 +91,7 @@ Week 6
 Week 7
 	Introduce Pixel Perfect Collision Detection and Random Dungeon Generation Assignments
 	Tuesday: (video is 7 minutes)
+		Ask about options for Brother Clement's presentation next week
 		Extra Credits: The Problem with Power Fantasies
 		https://www.youtube.com/watch?v=gErFdHiTBRw
 		Discussion (10 minutes)
