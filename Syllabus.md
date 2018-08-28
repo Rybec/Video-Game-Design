@@ -56,7 +56,7 @@ College Level Algebra
 - BYU-Idaho requires all students to possess a laptop computer.  In-class activities are a significant part of this class, and these activities will require you to use your laptop in class.
 
 ## Grading
-Grading is mostly covered in Proficiencies.md.  This course is graded using a proficiency model outlined in that document.  There are 10 core proficiencies which are each worth 10% of the grade.  Students are expected to demonstrate those proficiencies primarily through their course work.
+Grading is mostly covered in the [Proficiencies document](https://github.com/Rybec/Video-Game-Design/blob/master/Proficiencies.md).  This course is graded using a proficiency model outlined in that document.  There are 10 core proficiencies which are each worth 10% of the grade.  Students are expected to demonstrate those proficiencies primarily through their course work.
 
 The two projects are mandatory for a passing grade.  If a student fails to meet the requirements of either project, that student will fail the course, regardless of anything else.
 
