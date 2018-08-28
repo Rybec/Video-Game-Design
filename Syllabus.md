@@ -34,7 +34,7 @@ _Spring 2018_
 - Demonstrate an understanding of basic game design
 - Leverage reward psychology to design games that are motivating
 - Collaborate with others to distill the best ideas into a game design
-- Discover and learn to avoid commor pitfalls in video game development
+- Discover and learn to avoid common pitfalls in video game development
 - Understand how different strategies can impact the design of educational games
 - Understand how to leverage naturally educational activities to make motivating games with educational value
 - Create a tabletop game that is enjoyable to play
